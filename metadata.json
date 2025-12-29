@@ -1,0 +1,7 @@
+{
+  "name": "Jarvis Live Interface",
+  "description": "A futuristic voice-controlled assistant using Gemini Live API to simulate phone control and provide real-time audio interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
